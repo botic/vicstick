@@ -1,0 +1,2 @@
+* Example 1: This is a simple Stick application. It returns a html response on incoming requests and shows the URL parsing.
+* Example 2: This shows how the middleware chain inside of stick works. Take a look at the counter middleware: It will increase a variable attached to the request. If it's already existing, it will be increased. If not, it's initialized with 1.
